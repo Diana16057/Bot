@@ -1,0 +1,5 @@
+.env
+config_reader.py
+venv/
+.vscode.code-workspace
+.gitignore
